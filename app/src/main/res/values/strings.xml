@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TP1_GRUPO6</string>
+    <string name="tp_n_1">TP N°1</string>
+    <string name="ejercicio_1">EJERCICIO 1</string>
+    <string name="ejercicio_2">EJERCICIO 2</string>
+    <string name="integrantes">INTEGRANTES:</string>
+    <string name="walter_guerrero">WALTER GUERRERO</string>
+    <string name="mathias_ibarrola">MATHIAS IBARROLA</string>
+    <string name="mateo_ghidini">MATEO GHIDINI</string>
+    <string name="joel_fernandez">JOEL FERNANDEZ</string>
+    <string name="daniel_gerez">DANIEL GEREZ</string>
+</resources>
